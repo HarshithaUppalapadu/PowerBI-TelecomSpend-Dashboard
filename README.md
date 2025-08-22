@@ -14,7 +14,7 @@ It was designed during my internship to help with **cost optimization, vendor be
 
 ## 🔹 Files in Repository
 - `Telecom-Spend-Dashboard.pbix` → Full Power BI file  
-- `screenshots/` → Contains dashboard visuals  
+- `Dashboard.pdf/` → Contains dashboard visuals  
 - `README.md` → Project documentation  
 
 ## 🔹 Tools Used
